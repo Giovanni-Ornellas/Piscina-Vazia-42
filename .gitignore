@@ -1,0 +1,9 @@
+# Ignorar arquivos objeto (.o)
+*.o
+
+# Ignorar arquivos de depuração (.d)
+*.d
+
+# Ignorar arquivos de saída executáveis comuns
+a.out
+*.exe
